@@ -1,1 +1,1 @@
-This a git remot repo on a virtual machine
+This is a git remote repo on a virtual machine
